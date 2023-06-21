@@ -2,5 +2,5 @@
   "welcomeMessage": "Text from a JSON file hosted on Github",
   "vivi": "ViVi PoC",
   "emoji": "👽Hej TUT!👾",
-  "imageSource": "https://files.slack.com/files-pri/T04T6N40732-F05DM78CKL4/spinner.gif"
+  "imageSource": "https://raw.githubusercontent.com/christian-twoday/christian-twoday.github.io/main/spinner_360.gif"
 }
